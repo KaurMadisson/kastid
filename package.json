@@ -11,6 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^5.1.2"
+    "chalk": "^5.1.2",
+    "checkbox": "^0.0.1",
+    "number": "^0.0.1",
+    "prompt-checkbox": "^2.2.0"
   }
 }
